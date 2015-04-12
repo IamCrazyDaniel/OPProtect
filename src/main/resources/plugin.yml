@@ -1,0 +1,10 @@
+name: OPProtect
+version: 1.0
+author: IamCrazyDaniel
+main: nl.iamcrazydaniel.minecraft.plugin
+description: laat ons oppen
+
+commands:
+   oppa:
+     description: trol
+     usage: /<command>
